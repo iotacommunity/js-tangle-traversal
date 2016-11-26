@@ -1,2 +1,8 @@
 # js-tangle-traversal
-JS Implementation of a traversal algo
+
+JS Tangle traversal script. Run with:
+
+```
+npm install
+node traverse.js
+```

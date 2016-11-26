@@ -1,0 +1,15 @@
+{
+  "name": "js-tangle-traversal",
+  "version": "1.0.0",
+  "description": "Javascript Tangle Traversal",
+  "main": "traverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dominik Schiener",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "iota.js.lib": "0.0.2"
+  }
+}
