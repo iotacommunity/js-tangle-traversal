@@ -82,9 +82,9 @@ function traverse(tips) {
             // If end not reached, reassign the txs for traversal
             console.log("Confirmed Txs: ", allTxs.size);
             tips = txList;
-            if (numTxs > 2000) {
-                continueTraverse = false;
-            }
+            //if (numTxs > 2000) {
+            //    continueTraverse = false;
+            //}
             callback(null)
         })
     }, function() {
