@@ -17,5 +17,5 @@ Make sure you give the program as much heap as possible (in this example 4GB)
 
 ```
 npm install
-nodejs --max_old_space_size=4096 ./copy_to.js
+nodejs --max_old_space_size=4096 ./copy_to_new.js
 ```
