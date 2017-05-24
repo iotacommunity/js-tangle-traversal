@@ -3,9 +3,13 @@
 JS Tangle traversal script that extracts confirmed transactions and stores it in a new database
 
 In script copy_to_new.js, Configure: lines 7-10
+
 var IP_OLD = 'localhost';
+
 var IP_NEW = 'ip-of-your-new-node';
+
 var PORT_OLD = 14265
+
 var PORT_NEW = 14265
 
 Execute the script (takes 1hour)
